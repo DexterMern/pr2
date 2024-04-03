@@ -1,0 +1,44 @@
+.part1 {
+    grid-column: 1/4;
+    grid-row: 1/2;
+
+}
+
+a:link {
+    color: #161515;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.click {
+    font-size: 25px;
+    margin: 20px;
+    width: 10%;
+    height: 40%;
+    border-radius: 20px;
+    background-color: #d8bb94b1;
+    color: rgb(15, 15, 15);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.click:hover {
+    background-color: #c3a00452;
+}
+
+.searcher {
+    margin: 5px;
+    width: 85%;
+    height: 40%;
+    border-radius: 20px;
+    background-color: #d8bb94b1;
+    color: #fff;
+    direction: rtl;
+    
+}
+::placeholder{
+    color: rgba(0, 0, 0, 0.74);
+    font-size: 20px;
+}

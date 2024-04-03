@@ -1,0 +1,112 @@
+.footer1 {
+    grid-column: 1/-1;
+    grid-row: 9 / -1;
+    background-color: #d8bb94b1;
+    font-family: A chamran;
+    font-size: 20px;
+    padding-top: 60px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    direction: rtl;
+    
+}
+
+.footer4 {
+    transition: all 0.4s;
+}
+
+.footer4:hover {
+    transform: scale(1.2);
+    color: #151515;
+    font-size: 27px;
+}
+
+.telegram {
+    transition: all 0.3s;
+}
+
+.telegram:hover {
+    color: blue;
+    transform: scale(1.1);
+}
+
+.watsapp {
+    transition: all 0.3s;
+}
+
+.watsapp:hover {
+    color: green;
+    transform: scale(1.1);
+}
+
+.youtube {
+    transition: all 0.3s;
+}
+
+.youtube:hover {
+    color: rgb(255, 0, 0);
+    transform: scale(1.1);
+}
+
+.facebook {
+    transition: all 0.3s;
+}
+
+.facebook:hover {
+    color: rgb(5, 5, 116);
+    transform: scale(1.1);
+}
+
+.twitter {
+    transition: all 0.3s;
+}
+
+.twitter:hover {
+    color: rgb(0, 213, 255);
+    transform: scale(1.1);
+}
+
+.linkedin {
+    transition: all 0.3s;
+}
+
+.linkedin:hover {
+    color: rgb(37, 37, 128);
+    transform: scale(1.1);
+}
+
+.amazon {
+    transition: all 0.3s;
+}
+
+.amazon:hover {
+    color: rgb(168, 134, 12);
+    transform: scale(1.1);
+}
+
+.pinterest {
+    transition: all 0.3s;
+}
+
+.pinterest:hover {
+    color: rgb(104, 2, 2);
+    transform: scale(1.1);
+}
+
+.footer5 {
+    transition: all 0.3s;
+}
+
+.footer5:hover {
+    transform: scale(1.1);
+    color: #151515;
+    font-size: 27px;
+}
+
+.foot {
+    font-family: Georgia;
+    margin-bottom: 2px;
+}

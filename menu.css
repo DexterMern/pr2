@@ -1,0 +1,31 @@
+.part2 {
+    margin: 10px;
+    margin-bottom: 0px;
+    grid-column: 4/-1;
+    grid-row: 1/9;
+    background-color: #39393984;
+    direction: rtl;
+    border-radius: 20px;
+}
+
+.menu {
+    padding: 20px;
+    text-align: center;
+
+}
+
+.menu li {
+    background-color: #ffffffd1;
+    margin: 5px;
+    font-size: 25px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    padding: 30px;
+    width: 90%;
+    height: 90px;
+    transition: all 0.3s;
+}
+.menu :hover{
+    background-color: #d8bb94b1;
+    transform: scale(1.2);
+}
